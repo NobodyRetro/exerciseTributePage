@@ -1,0 +1,54 @@
+.pallet {
+  /* https://coolors.co/fcf5e5-b04f09-473151-7e484d-7d4118 */
+  color: #fcf5e5; /* Cosmic Latte */
+  color: #b04f09; /* Burnt Orange */
+  color: #473151; /* English Violet */
+  color: #7e484d; /* Cordovan */
+  color: #7d4118; /* Russet */
+}
+
+body {
+  background-color: #fcf5e5;
+  text-align: center;
+}
+
+h1,
+.sectionHeaders {
+  color: #473151;
+  text-transform: uppercase;
+  border: 5px double #b04f09;
+}
+
+hr {
+  color: transparent;
+}
+
+h3,
+p,
+ul {
+  color: #7d4118;
+}
+
+.image {
+  border-radius: 100%;
+  border: 7px solid #7e484d;
+}
+
+ul {
+  list-style-type: square;
+}
+
+.quotes {
+  color: #473151;
+  font-style: italic;
+}
+
+.notation {
+  color: red;
+  font-style: italic;
+  text-decoration: none;
+}
+
+a {
+  color: #473151;
+}
